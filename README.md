@@ -1,5 +1,5 @@
 # Game-Terrain
-This project doing testing purpose and education purpose only
+This project does testing purpose and education purposes only
 
 ## Technologies
 ### Design & Programming Software
